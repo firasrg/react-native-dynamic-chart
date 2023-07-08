@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "animated-chart",
-    "slug": "snack-87cd3fa2-6151-4a99-883c-b1d672bc835f",
+    "scheme": "polar-hr",
+    "name": "polar-hr",
+    "slug": "polar-hr",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
